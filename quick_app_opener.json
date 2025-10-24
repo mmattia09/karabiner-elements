@@ -1,0 +1,13 @@
+{
+    "manipulators": [
+        {
+            "description": "quick app opener",
+            "from": {
+                "key_code": "m",
+                "modifiers": { "mandatory": ["left_shift", "left_control", "left_option"] }
+            },
+            "to": [{ "shell_command": "open /System/Applications/Music.app" }],
+            "type": "basic"
+        }
+    ]
+}

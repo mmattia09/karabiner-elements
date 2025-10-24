@@ -1,0 +1,13 @@
+{
+    "manipulators": [
+        {
+            "description": "end → open /Users/mattia/hub/%temp in finder",
+            "from": {
+                "key_code": "end",
+                "modifiers": { "optional": ["any"] }
+            },
+            "to": [{ "shell_command": "open '/Users/mattia/hub/%temp'" }],
+            "type": "basic"
+        }
+    ]
+}

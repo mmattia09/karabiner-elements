@@ -1,0 +1,14 @@
+{
+    "manipulators": [
+        {
+            "description": "tab → left_command se premuto a lungo, tab se premuto da solo",
+            "from": {
+                "key_code": "tab",
+                "modifiers": { "optional": ["any"] }
+            },
+            "to": [{ "key_code": "left_command" }],
+            "to_if_alone": [{ "key_code": "tab" }],
+            "type": "basic"
+        }
+    ]
+}
