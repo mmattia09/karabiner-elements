@@ -2,6 +2,10 @@
 
 This repository contains custom keyboard mappings for [Karabiner Elements](https://karabiner-elements.pqrs.org/), a powerful keyboard customizer for macOS.
 
+## Video
+[![Watch the tutorial](https://img.youtube.com/vi/flgDZHTYheU/maxresdefault.jpg)](https://youtu.be/flgDZHTYheU)
+[Watch on YouTube](https://youtu.be/flgDZHTYheU)
+
 ## Available Configurations
 
 ### 1. Accented Vowels (`accenti_vocali.json`)
